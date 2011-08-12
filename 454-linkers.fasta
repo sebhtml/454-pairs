@@ -1,0 +1,6 @@
+>linker1 flx, a palindrome, equal to its own reverse complement.
+GTTGGAACCGAAAGGGTTTGAATTCAAACCCTTTCGGTTCCAAC
+>linker2 titanium, forward
+TCGTATAACTTCGTATAATGTATGCTATACGAAGTTATTACG 
+>linker3 titanium, reverse-complement 
+CGTAATAACTTCGTATAGCATACATTATACGAAGTTATACGA
