@@ -1,3 +1,9 @@
+# Description
+
+convert-sff.sh
+
+
+
 Convert a sff file to 3 fasta files:
 	
 Reads that are not paired:
