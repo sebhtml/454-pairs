@@ -4,14 +4,14 @@ convert-sff.sh
 
 
 
-Convert a sff file to 3 fasta files:
+Convert a sff file to 3 fastq files:
 	
 Reads that are not paired:
 
-	OUT.Single.fasta
+	OUT.Single.fastq
 
 Reads that are paired:
 
-	Out.Forward.fasta
+	Out.Forward.fastq
 
-	Out.Reverse.fasta
+	Out.Reverse.fastq
